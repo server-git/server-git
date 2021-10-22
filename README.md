@@ -6,7 +6,7 @@
 I'm a **WebDeveloper** & **Java Engineer**, i code for fun. <br>
 I work with **NodeJs**, **JavaScript**, **HTML**, **PHP**, **Java** and much more. <br>
 I'm currently learning more about **Python**. <br>
-How to reach me: Use my discord [theMeliodas#1112]
+How to reach me: Use my discord [theMeliodas#1000]
 
 ### Languages and Tools:
 
