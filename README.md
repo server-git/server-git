@@ -7,9 +7,9 @@ Web Developer
 I've been learning code since I was 10yrs old. I know a lot of things about Internet, Software, Web,.
 
 * 🌍  I'm based in Romania
-* 🖥️  See my portfolio at [TERRAZE.XYZ](http://terraze.xyz)
-* ✉️  You can contact me at [contact@terraze.xyz](mailto:contact@terraze.xyz)
-* 🚀  I'm currently working on [terraze-shop](http://terraze.shop)
+* 🖥️  See my portfolio at [myjules.ro](https://myjules.ro)
+* ✉️  You can contact me at [me@myjules.ro](mailto:me@myjules.ro)
+* 🚀  CEO @ [banatsync.com](https://banatsync.com)
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on any projects
 
